@@ -17,13 +17,6 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 ---
 
-#### 📜 My recent blog posts
-{{range rss "https://zawarstwaabstrakcji.pl/atom.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
-
----
-
 #### 📫 How to reach me
 
 - Twitter: [@norbert_tech](https://twitter.com/norbert_tech)
