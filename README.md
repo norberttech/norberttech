@@ -5,9 +5,9 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 👷 Check out what I'm currently working on
 
+- [aeon-php/automation](https://github.com/aeon-php/automation) - ⚙️📝 Automatically update project changelog after commit/tag/release/pull request in &#34;keep a changelog&#34; format (or not)  (today)
 - [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (3 days ago)
 - [aeon-php/calendar](https://github.com/aeon-php/calendar) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way.  (4 days ago)
-- [aeon-php/automation](https://github.com/aeon-php/automation) - ⚙️📝 Automatically update project changelog after commit/tag/release/pull request in &#34;keep a changelog&#34; format (or not)  (4 days ago)
 - [flow-php/etl-adapter-doctrine](https://github.com/flow-php/etl-adapter-doctrine) - ETL Adapter: Doctrine (6 days ago)
 - [flow-php/etl-adapter-elasticsearch](https://github.com/flow-php/etl-adapter-elasticsearch) - ETL Adapter: Elasticsearch (1 week ago)
 - [flow-php/etl-transformer](https://github.com/flow-php/etl-transformer) - Generic ETL Transformers (1 week ago)
