@@ -6,6 +6,7 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 #### 👷 Check out what I'm currently working on
 
 - [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (today)
+- [flow-php/etl-adapter-http](https://github.com/flow-php/etl-adapter-http) - PHP ETL - Adapter - Http (today)
 - [flow-php/etl-adapter-memory](https://github.com/flow-php/etl-adapter-memory) - ETL Adapter: Memory (6 days ago)
 - [flow-php/etl-transformer](https://github.com/flow-php/etl-transformer) - Generic ETL Transformers (1 week ago)
 - [aeon-php/website](https://github.com/aeon-php/website) - https://aeon-php.org (1 week ago)
@@ -14,7 +15,6 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 - [aeon-php/symfony-bundle](https://github.com/aeon-php/symfony-bundle) - Aeon Symfony Bundle (1 week ago)
 - [aeon-php/calendar-twig](https://github.com/aeon-php/calendar-twig) - 🌱 Twig extension for Aeon Calendar library  (1 week ago)
 - [aeon-php/calendar-doctrine](https://github.com/aeon-php/calendar-doctrine) - 📅Aeaon PHP Framework integration with Doctrine (1 week ago)
-- [aeon-php/calendar](https://github.com/aeon-php/calendar) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way.  (1 week ago)
 
 ---
 
