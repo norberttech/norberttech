@@ -6,14 +6,14 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 #### 👷 Check out what I'm currently working on
 
 - [flow-php/etl-transformer](https://github.com/flow-php/etl-transformer) - Generic ETL Transformers (today)
-- [flow-php/etl-adapter-http](https://github.com/flow-php/etl-adapter-http) - PHP ETL - Adapter - Http (1 day ago)
+- [flow-php/etl](https://github.com/flow-php/etl) - Extract Transform Load - Abstraction (today)
 - [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (1 day ago)
+- [flow-php/etl-adapter-http](https://github.com/flow-php/etl-adapter-http) - PHP ETL - Adapter - Http (1 day ago)
 - [aeon-php/symfony-bundle](https://github.com/aeon-php/symfony-bundle) - Aeon Symfony Bundle (2 days ago)
-- [flow-php/etl](https://github.com/flow-php/etl) - Extract Transform Load - Abstraction (3 days ago)
 - [flow-php/etl-adapter-memory](https://github.com/flow-php/etl-adapter-memory) - ETL Adapter: Memory (1 week ago)
-- [aeon-php/website](https://github.com/aeon-php/website) - https://aeon-php.org (1 week ago)
-- [aeon-php/business-hours](https://github.com/aeon-php/business-hours) - 🕰 Find the next working day, defined business hours. (1 week ago)
 - [coduo/php-matcher](https://github.com/coduo/php-matcher) - The easiest way to match data structures like JSON/PlainText/XML against readable patterns. Sandbox: (1 week ago)
+- [aeon-php/business-hours](https://github.com/aeon-php/business-hours) - 🕰 Find the next working day, defined business hours. (1 week ago)
+- [aeon-php/website](https://github.com/aeon-php/website) - https://aeon-php.org (1 week ago)
 - [aeon-php/calendar-twig](https://github.com/aeon-php/calendar-twig) - 🌱 Twig extension for Aeon Calendar library  (2 weeks ago)
 
 ---
