@@ -5,12 +5,12 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 👷 Check out what I'm currently working on
 
-- [flow-php/etl](https://github.com/flow-php/etl) - Extract Transform Load - Abstraction (1 day ago)
-- [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (1 day ago)
-- [flow-php/etl-transformer](https://github.com/flow-php/etl-transformer) - Generic ETL Transformers (1 day ago)
-- [flow-php/etl-adapter-csv](https://github.com/flow-php/etl-adapter-csv) - ETL Adapter: CSV (1 day ago)
-- [flow-php/etl-adapter-http](https://github.com/flow-php/etl-adapter-http) - PHP ETL - Adapter - Http (2 days ago)
-- [flow-php/etl-adapter-xml](https://github.com/flow-php/etl-adapter-xml) - ETL Adapter: XML (5 days ago)
+- [flow-php/etl](https://github.com/flow-php/etl) - Extract Transform Load - Abstraction (2 days ago)
+- [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (2 days ago)
+- [flow-php/etl-transformer](https://github.com/flow-php/etl-transformer) - Generic ETL Transformers (2 days ago)
+- [flow-php/etl-adapter-csv](https://github.com/flow-php/etl-adapter-csv) - ETL Adapter: CSV (2 days ago)
+- [flow-php/etl-adapter-http](https://github.com/flow-php/etl-adapter-http) - PHP ETL - Adapter - Http (3 days ago)
+- [flow-php/etl-adapter-xml](https://github.com/flow-php/etl-adapter-xml) - ETL Adapter: XML (6 days ago)
 - [flow-php/etl-adapter-logger](https://github.com/flow-php/etl-adapter-logger) - PHP ETL - Adapter - Logger (1 week ago)
 - [aeon-php/symfony-bundle](https://github.com/aeon-php/symfony-bundle) - Aeon Symfony Bundle (1 week ago)
 - [flow-php/etl-adapter-memory](https://github.com/flow-php/etl-adapter-memory) - ETL Adapter: Memory (2 weeks ago)
@@ -29,7 +29,7 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 - [app-insights-php/monolog-handler](https://github.com/app-insights-php/monolog-handler) ([0.2.2](https://github.com/app-insights-php/monolog-handler/releases/tag/0.2.2), 3 months ago) - Microsoft App Insights monolog handler for trace tracking
 - [app-insights-php/doctrine-dependency-logger](https://github.com/app-insights-php/doctrine-dependency-logger) ([0.2.1](https://github.com/app-insights-php/doctrine-dependency-logger/releases/tag/0.2.1), 3 months ago) - Microsoft App Insights dependency logger for Doctrine DBAL
 - [app-insights-php/client](https://github.com/app-insights-php/client) ([0.2.6](https://github.com/app-insights-php/client/releases/tag/0.2.6), 3 months ago) - Microsoft App Insights telemetry client wrapper
-- [norberttech/static-content-generator-bundle](https://github.com/norberttech/static-content-generator-bundle) ([0.3.0](https://github.com/norberttech/static-content-generator-bundle/releases/tag/0.3.0), 3 months ago) - Generate static html pages from your symfony application
+- [norberttech/static-content-generator-bundle](https://github.com/norberttech/static-content-generator-bundle) ([0.3.0](https://github.com/norberttech/static-content-generator-bundle/releases/tag/0.3.0), 4 months ago) - Generate static html pages from your symfony application
 
 ---
 
