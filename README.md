@@ -5,13 +5,13 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 👷 Check out what I'm currently working on
 
-- [aeon-php/calendar](https://github.com/aeon-php/calendar) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way.  (today)
-- [aeon-php/website](https://github.com/aeon-php/website) - https://aeon-php.org (today)
-- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (1 day ago)
-- [norberttech/static-content-generator-bundle](https://github.com/norberttech/static-content-generator-bundle) - Generate static html pages from your symfony application (4 days ago)
-- [aeon-php/symfony-bundle](https://github.com/aeon-php/symfony-bundle) - Aeon Symfony Bundle (4 days ago)
-- [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (4 days ago)
-- [flow-php/flow](https://github.com/flow-php/flow) - PHP data manipulation library build on top of flow-php/etl ETL  (6 days ago)
+- [aeon-php/calendar](https://github.com/aeon-php/calendar) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way.  (1 day ago)
+- [aeon-php/website](https://github.com/aeon-php/website) - https://aeon-php.org (1 day ago)
+- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (2 days ago)
+- [norberttech/static-content-generator-bundle](https://github.com/norberttech/static-content-generator-bundle) - Generate static html pages from your symfony application (5 days ago)
+- [aeon-php/symfony-bundle](https://github.com/aeon-php/symfony-bundle) - Aeon Symfony Bundle (5 days ago)
+- [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (5 days ago)
+- [flow-php/flow](https://github.com/flow-php/flow) - PHP data manipulation library build on top of flow-php/etl ETL  (1 week ago)
 - [flow-php/etl-transformer](https://github.com/flow-php/etl-transformer) - Generic ETL Transformers (1 week ago)
 - [flow-php/etl](https://github.com/flow-php/etl) - Extract Transform Load - Abstraction (2 weeks ago)
 - [flow-php/etl-adapter-csv](https://github.com/flow-php/etl-adapter-csv) - ETL Adapter: CSV (2 weeks ago)
@@ -20,7 +20,7 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 🔭 Latest releases I've contributed to
 
-- [aeon-php/calendar](https://github.com/aeon-php/calendar) ([1.0.0](https://github.com/aeon-php/calendar/releases/tag/1.0.0), today) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way. 
+- [aeon-php/calendar](https://github.com/aeon-php/calendar) ([1.0.0](https://github.com/aeon-php/calendar/releases/tag/1.0.0), 1 day ago) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way. 
 - [coduo/php-matcher](https://github.com/coduo/php-matcher) ([6.0.6](https://github.com/coduo/php-matcher/releases/tag/6.0.6), 3 weeks ago) - The easiest way to match data structures like JSON/PlainText/XML against readable patterns. Sandbox:
 - [rectorphp/rector](https://github.com/rectorphp/rector) ([0.11.0](https://github.com/rectorphp/rector/releases/tag/0.11.0), 3 weeks ago) - Instant Upgrades and Automated Refactoring of any PHP 5.3&#43; code
 - [structurizr-php/structurizr-php](https://github.com/structurizr-php/structurizr-php) ([0.3.0](https://github.com/structurizr-php/structurizr-php/releases/tag/0.3.0), 1 month ago) - 🗺 https://structurizr.com library for PHP - generate architecture diagrams from code
