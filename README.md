@@ -5,6 +5,7 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 👷 Check out what I'm currently working on
 
+- [flow-php/etl](https://github.com/flow-php/etl) - Extract Transform Load - Abstraction (2 days ago)
 - [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (3 days ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (4 days ago)
 - [aeon-php/website](https://github.com/aeon-php/website) - https://aeon-php.org (1 week ago)
@@ -14,7 +15,6 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 - [flow-php/flow](https://github.com/flow-php/flow) - PHP data manipulation library build on top of flow-php/etl ETL  (2 weeks ago)
 - [flow-php/etl-transformer](https://github.com/flow-php/etl-transformer) - Generic ETL Transformers (2 weeks ago)
 - [flow-php/etl-adapter-csv](https://github.com/flow-php/etl-adapter-csv) - ETL Adapter: CSV (3 weeks ago)
-- [flow-php/etl](https://github.com/flow-php/etl) - Extract Transform Load - Abstraction (3 weeks ago)
 
 ---
 
