@@ -5,8 +5,8 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 👷 Check out what I'm currently working on
 
+- [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (today)
 - [aeon-php/calendar-rector](https://github.com/aeon-php/calendar-rector) - Experimental rector rules allowing to migrate from native \DateTimeImmutable into Aeon DateTime - don&#39;t use! (today)
-- [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (2 days ago)
 - [flow-php/etl-transformer](https://github.com/flow-php/etl-transformer) - Generic ETL Transformers (4 days ago)
 - [flow-php/flow](https://github.com/flow-php/flow) - PHP data manipulation library build on top of flow-php/etl ETL  (4 days ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (4 days ago)
