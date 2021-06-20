@@ -5,21 +5,22 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 👷 Check out what I'm currently working on
 
-- [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (today)
+- [aeon-php/sleep](https://github.com/aeon-php/sleep) - 😴 Improved sleep function that uses simple TimeUnit and decides between \sleep and \usleep (today)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (today)
+- [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (today)
 - [aeon-php/calendar-rector](https://github.com/aeon-php/calendar-rector) - Experimental rector rules allowing to migrate from native \DateTimeImmutable into Aeon DateTime - don&#39;t use! (today)
-- [flow-php/etl-transformer](https://github.com/flow-php/etl-transformer) - Generic ETL Transformers (6 days ago)
 - [flow-php/flow](https://github.com/flow-php/flow) - PHP data manipulation library build on top of flow-php/etl ETL  (6 days ago)
+- [flow-php/etl-transformer](https://github.com/flow-php/etl-transformer) - Generic ETL Transformers (6 days ago)
 - [flow-php/etl](https://github.com/flow-php/etl) - Extract Transform Load - Abstraction (1 week ago)
 - [aeon-php/calendar](https://github.com/aeon-php/calendar) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way.  (2 weeks ago)
 - [aeon-php/website](https://github.com/aeon-php/website) - https://aeon-php.org (2 weeks ago)
 - [norberttech/static-content-generator-bundle](https://github.com/norberttech/static-content-generator-bundle) - Generate static html pages from your symfony application (2 weeks ago)
-- [aeon-php/symfony-bundle](https://github.com/aeon-php/symfony-bundle) - Aeon Symfony Bundle (2 weeks ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
+- [aeon-php/sleep](https://github.com/aeon-php/sleep) ([1.0.0](https://github.com/aeon-php/sleep/releases/tag/1.0.0), today) - 😴 Improved sleep function that uses simple TimeUnit and decides between \sleep and \usleep
 - [aeon-php/calendar](https://github.com/aeon-php/calendar) ([1.0.0](https://github.com/aeon-php/calendar/releases/tag/1.0.0), 2 weeks ago) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way. 
 - [coduo/php-matcher](https://github.com/coduo/php-matcher) ([6.0.6](https://github.com/coduo/php-matcher/releases/tag/6.0.6), 1 month ago) - The easiest way to match data structures like JSON/PlainText/XML against readable patterns. Sandbox:
 - [rectorphp/rector](https://github.com/rectorphp/rector) ([0.11.0](https://github.com/rectorphp/rector/releases/tag/0.11.0), 1 month ago) - Instant Upgrades and Automated Refactoring of any PHP 5.3&#43; code
@@ -29,7 +30,6 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 - [app-insights-php/app-insights-php-bundle](https://github.com/app-insights-php/app-insights-php-bundle) ([0.2.6](https://github.com/app-insights-php/app-insights-php-bundle/releases/tag/0.2.6), 4 months ago) - Microsoft App Insights Symfony bundle 
 - [app-insights-php/monolog-handler](https://github.com/app-insights-php/monolog-handler) ([0.2.2](https://github.com/app-insights-php/monolog-handler/releases/tag/0.2.2), 4 months ago) - Microsoft App Insights monolog handler for trace tracking
 - [app-insights-php/doctrine-dependency-logger](https://github.com/app-insights-php/doctrine-dependency-logger) ([0.2.1](https://github.com/app-insights-php/doctrine-dependency-logger/releases/tag/0.2.1), 4 months ago) - Microsoft App Insights dependency logger for Doctrine DBAL
-- [app-insights-php/client](https://github.com/app-insights-php/client) ([0.2.6](https://github.com/app-insights-php/client/releases/tag/0.2.6), 4 months ago) - Microsoft App Insights telemetry client wrapper
 
 ---
 
