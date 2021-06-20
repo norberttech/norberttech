@@ -5,9 +5,9 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 👷 Check out what I'm currently working on
 
-- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (1 day ago)
-- [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (2 days ago)
-- [aeon-php/calendar-rector](https://github.com/aeon-php/calendar-rector) - Experimental rector rules allowing to migrate from native \DateTimeImmutable into Aeon DateTime - don&#39;t use! (2 days ago)
+- [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (today)
+- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (today)
+- [aeon-php/calendar-rector](https://github.com/aeon-php/calendar-rector) - Experimental rector rules allowing to migrate from native \DateTimeImmutable into Aeon DateTime - don&#39;t use! (today)
 - [flow-php/etl-transformer](https://github.com/flow-php/etl-transformer) - Generic ETL Transformers (6 days ago)
 - [flow-php/flow](https://github.com/flow-php/flow) - PHP data manipulation library build on top of flow-php/etl ETL  (6 days ago)
 - [flow-php/etl](https://github.com/flow-php/etl) - Extract Transform Load - Abstraction (1 week ago)
