@@ -14,7 +14,7 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 - [aeon-php/symfony-bundle](https://github.com/aeon-php/symfony-bundle) - Aeon Symfony Bundle (4 days ago)
 - [coduo/php-matcher](https://github.com/coduo/php-matcher) - The easiest way to match data structures like JSON/PlainText/XML against readable patterns. Sandbox: (4 days ago)
 - [aeon-php/calendar-twig](https://github.com/aeon-php/calendar-twig) - 🌱 Twig extension for Aeon Calendar library  (4 days ago)
-- [aeon-php/calendar-rector](https://github.com/aeon-php/calendar-rector) - Experimental rector rules allowing to migrate from native \DateTimeImmutable into Aeon DateTime - don&#39;t use! (4 days ago)
+- [aeon-php/sleep](https://github.com/aeon-php/sleep) - 😴 Improved sleep function that uses simple TimeUnit and decides between \sleep and \usleep (4 days ago)
 
 ---
 
