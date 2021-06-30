@@ -5,12 +5,12 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 👷 Check out what I'm currently working on
 
-- [flow-php/etl-transformer](https://github.com/flow-php/etl-transformer) - Generic ETL Transformers (today)
-- [flow-php/flow](https://github.com/flow-php/flow) - PHP data manipulation library build on top of flow-php/etl ETL  (today)
-- [flow-php/array-dot](https://github.com/flow-php/array-dot) - Helper functions to access arrays in custom array dot notation  (today)
-- [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (2 days ago)
-- [aeon-php/calendar](https://github.com/aeon-php/calendar) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way.  (4 days ago)
-- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (4 days ago)
+- [flow-php/etl-transformer](https://github.com/flow-php/etl-transformer) - Generic ETL Transformers (1 day ago)
+- [flow-php/flow](https://github.com/flow-php/flow) - PHP data manipulation library build on top of flow-php/etl ETL  (1 day ago)
+- [flow-php/array-dot](https://github.com/flow-php/array-dot) - Helper functions to access arrays in custom array dot notation  (1 day ago)
+- [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (3 days ago)
+- [aeon-php/calendar](https://github.com/aeon-php/calendar) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way.  (5 days ago)
+- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (5 days ago)
 - [norberttech/norbert.tech](https://github.com/norberttech/norbert.tech) - Personal Website (1 week ago)
 - [aeon-php/website](https://github.com/aeon-php/website) - https://aeon-php.org (1 week ago)
 - [coduo/php-humanizer](https://github.com/coduo/php-humanizer) - Humanize values that are readable only for developers. (1 week ago)
@@ -20,7 +20,7 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 🔭 Latest releases I've contributed to
 
-- [aeon-php/calendar](https://github.com/aeon-php/calendar) ([1.0.1](https://github.com/aeon-php/calendar/releases/tag/1.0.1), 4 days ago) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way. 
+- [aeon-php/calendar](https://github.com/aeon-php/calendar) ([1.0.1](https://github.com/aeon-php/calendar/releases/tag/1.0.1), 5 days ago) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way. 
 - [aeon-php/calendar-twig](https://github.com/aeon-php/calendar-twig) ([0.10.0](https://github.com/aeon-php/calendar-twig/releases/tag/0.10.0), 1 week ago) - 🌱 Twig extension for Aeon Calendar library 
 - [coduo/php-matcher](https://github.com/coduo/php-matcher) ([6.0.7](https://github.com/coduo/php-matcher/releases/tag/6.0.7), 1 week ago) - The easiest way to match data structures like JSON/PlainText/XML against readable patterns. Sandbox:
 - [coduo/php-humanizer](https://github.com/coduo/php-humanizer) ([4.0.2](https://github.com/coduo/php-humanizer/releases/tag/4.0.2), 1 week ago) - Humanize values that are readable only for developers.
