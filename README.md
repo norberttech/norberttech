@@ -5,9 +5,9 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 👷 Check out what I'm currently working on
 
+- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (today)
 - [flow-php/etl-transformer](https://github.com/flow-php/etl-transformer) - Generic ETL Transformers (1 day ago)
 - [flow-php/flow](https://github.com/flow-php/flow) - PHP data manipulation library build on top of flow-php/etl ETL  (1 day ago)
-- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (1 day ago)
 - [flow-php/etl](https://github.com/flow-php/etl) - Extract Transform Load - Abstraction (1 day ago)
 - [flow-php/array-dot](https://github.com/flow-php/array-dot) - Helper functions to access arrays in custom array dot notation  (2 days ago)
 - [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (4 days ago)
