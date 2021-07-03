@@ -5,15 +5,15 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 👷 Check out what I'm currently working on
 
-- [flow-php/etl](https://github.com/flow-php/etl) - Extract Transform Load - Abstraction (today)
-- [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (today)
-- [flow-php/etl-transformer](https://github.com/flow-php/etl-transformer) - Generic ETL Transformers (today)
-- [coduo/php-to-string](https://github.com/coduo/php-to-string) - Cast any php value into a string  (1 day ago)
-- [aeon-php/.github](https://github.com/aeon-php/.github) -  (1 day ago)
-- [coduo/php-humanizer](https://github.com/coduo/php-humanizer) - Humanize values that are readable only for developers. (1 day ago)
-- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (1 day ago)
-- [flow-php/flow](https://github.com/flow-php/flow) - PHP data manipulation library build on top of flow-php/etl ETL  (2 days ago)
-- [flow-php/array-dot](https://github.com/flow-php/array-dot) - Helper functions to access arrays in custom array dot notation  (3 days ago)
+- [flow-php/etl](https://github.com/flow-php/etl) - Extract Transform Load - Abstraction (1 day ago)
+- [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (1 day ago)
+- [flow-php/etl-transformer](https://github.com/flow-php/etl-transformer) - Generic ETL Transformers (1 day ago)
+- [coduo/php-to-string](https://github.com/coduo/php-to-string) - Cast any php value into a string  (2 days ago)
+- [aeon-php/.github](https://github.com/aeon-php/.github) -  (2 days ago)
+- [coduo/php-humanizer](https://github.com/coduo/php-humanizer) - Humanize values that are readable only for developers. (2 days ago)
+- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (2 days ago)
+- [flow-php/flow](https://github.com/flow-php/flow) - PHP data manipulation library build on top of flow-php/etl ETL  (3 days ago)
+- [flow-php/array-dot](https://github.com/flow-php/array-dot) - Helper functions to access arrays in custom array dot notation  (4 days ago)
 - [aeon-php/calendar](https://github.com/aeon-php/calendar) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way.  (1 week ago)
 
 ---
