@@ -5,7 +5,7 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 👷 Check out what I'm currently working on
 
-- [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (1 day ago)
+- [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (today)
 - [flow-php/etl](https://github.com/flow-php/etl) - Extract Transform Load - Abstraction (2 days ago)
 - [flow-php/etl-transformer](https://github.com/flow-php/etl-transformer) - Generic ETL Transformers (2 days ago)
 - [coduo/php-to-string](https://github.com/coduo/php-to-string) - Cast any php value into a string  (3 days ago)
