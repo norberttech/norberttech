@@ -10,11 +10,11 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 - [aeon-php/calendar](https://github.com/aeon-php/calendar) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way.  (2 weeks ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (2 weeks ago)
 - [norberttech/symfony-process-executor](https://github.com/norberttech/symfony-process-executor) - 💻 Symfony Process Component on steroids, async/sync execution chain. (2 weeks ago)
-- [flow-php/etl-transformer](https://github.com/flow-php/etl-transformer) - Generic ETL Transformers (3 weeks ago)
 - [flow-php/flow](https://github.com/flow-php/flow) - PHP data manipulation library build on top of flow-php/etl ETL  (3 weeks ago)
+- [flow-php/etl-transformer](https://github.com/flow-php/etl-transformer) - Generic ETL Transformers (3 weeks ago)
 - [aeon-php/.github](https://github.com/aeon-php/.github) -  (1 month ago)
-- [coduo/php-to-string](https://github.com/coduo/php-to-string) - Cast any php value into a string  (1 month ago)
 - [coduo/php-humanizer](https://github.com/coduo/php-humanizer) - Humanize values that are readable only for developers. (1 month ago)
+- [coduo/php-to-string](https://github.com/coduo/php-to-string) - Cast any php value into a string  (1 month ago)
 
 ---
 
