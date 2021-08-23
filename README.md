@@ -5,8 +5,8 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 👷 Check out what I'm currently working on
 
-- [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (today)
-- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (4 days ago)
+- [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (1 day ago)
+- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (5 days ago)
 - [flow-php/etl](https://github.com/flow-php/etl) - Extract Transform Load - Abstraction (1 month ago)
 - [aeon-php/calendar](https://github.com/aeon-php/calendar) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way.  (1 month ago)
 - [norberttech/symfony-process-executor](https://github.com/norberttech/symfony-process-executor) - 💻 Symfony Process Component on steroids, async/sync execution chain. (1 month ago)
@@ -20,7 +20,7 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 🔭 Latest releases I've contributed to
 
-- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) ([1.0.0](https://github.com/amazon-php/sp-api-sdk/releases/tag/1.0.0), 5 days ago) - Amazon Selling Partner SPI - PHP SDKs
+- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) ([1.0.0](https://github.com/amazon-php/sp-api-sdk/releases/tag/1.0.0), 6 days ago) - Amazon Selling Partner SPI - PHP SDKs
 - [aeon-php/calendar](https://github.com/aeon-php/calendar) ([1.0.1](https://github.com/aeon-php/calendar/releases/tag/1.0.1), 1 month ago) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way. 
 - [aeon-php/calendar-twig](https://github.com/aeon-php/calendar-twig) ([0.10.0](https://github.com/aeon-php/calendar-twig/releases/tag/0.10.0), 2 months ago) - 🌱 Twig extension for Aeon Calendar library 
 - [coduo/php-matcher](https://github.com/coduo/php-matcher) ([6.0.7](https://github.com/coduo/php-matcher/releases/tag/6.0.7), 2 months ago) - The easiest way to match data structures like JSON/PlainText/XML against readable patterns. Sandbox:
