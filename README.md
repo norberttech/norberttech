@@ -5,16 +5,16 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 👷 Check out what I'm currently working on
 
-- [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (today)
+- [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (1 day ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (1 week ago)
 - [flow-php/etl](https://github.com/flow-php/etl) - Extract Transform Load - Abstraction (1 month ago)
 - [aeon-php/calendar](https://github.com/aeon-php/calendar) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way.  (1 month ago)
 - [norberttech/symfony-process-executor](https://github.com/norberttech/symfony-process-executor) - 💻 Symfony Process Component on steroids, async/sync execution chain. (1 month ago)
 - [flow-php/etl-transformer](https://github.com/flow-php/etl-transformer) - Generic ETL Transformers (1 month ago)
 - [flow-php/flow](https://github.com/flow-php/flow) - PHP data manipulation library build on top of flow-php/etl ETL  (1 month ago)
-- [coduo/php-to-string](https://github.com/coduo/php-to-string) - Cast any php value into a string  (1 month ago)
-- [coduo/php-humanizer](https://github.com/coduo/php-humanizer) - Humanize values that are readable only for developers. (1 month ago)
-- [aeon-php/.github](https://github.com/aeon-php/.github) -  (1 month ago)
+- [coduo/php-to-string](https://github.com/coduo/php-to-string) - Cast any php value into a string  (2 months ago)
+- [coduo/php-humanizer](https://github.com/coduo/php-humanizer) - Humanize values that are readable only for developers. (2 months ago)
+- [aeon-php/.github](https://github.com/aeon-php/.github) -  (2 months ago)
 
 ---
 
