@@ -6,6 +6,7 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 #### 👷 Check out what I'm currently working on
 
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (today)
+- [aeon-php/automation](https://github.com/aeon-php/automation) - ⚙️📝 Automatically update project changelog after commit/tag/release/pull request in &#34;keep a changelog&#34; format (or not)  (today)
 - [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (2 days ago)
 - [flow-php/etl](https://github.com/flow-php/etl) - Extract Transform Load - Abstraction (1 month ago)
 - [aeon-php/calendar](https://github.com/aeon-php/calendar) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way.  (1 month ago)
@@ -14,7 +15,6 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 - [flow-php/flow](https://github.com/flow-php/flow) - PHP data manipulation library build on top of flow-php/etl ETL  (1 month ago)
 - [coduo/php-to-string](https://github.com/coduo/php-to-string) - Cast any php value into a string  (2 months ago)
 - [coduo/php-humanizer](https://github.com/coduo/php-humanizer) - Humanize values that are readable only for developers. (2 months ago)
-- [aeon-php/.github](https://github.com/aeon-php/.github) -  (2 months ago)
 
 ---
 
