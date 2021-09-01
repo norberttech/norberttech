@@ -20,6 +20,7 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 🔭 Latest releases I've contributed to
 
+- [aeon-php/automation](https://github.com/aeon-php/automation) ([1.0.0](https://github.com/aeon-php/automation/releases/tag/1.0.0), today) - ⚙️📝 Automatically update project changelog after commit/tag/release/pull request in &#34;keep a changelog&#34; format (or not) 
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) ([1.0.1](https://github.com/amazon-php/sp-api-sdk/releases/tag/1.0.1), 1 day ago) - Amazon Selling Partner SPI - PHP SDKs
 - [aeon-php/calendar](https://github.com/aeon-php/calendar) ([1.0.1](https://github.com/aeon-php/calendar/releases/tag/1.0.1), 2 months ago) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way. 
 - [aeon-php/calendar-twig](https://github.com/aeon-php/calendar-twig) ([0.10.0](https://github.com/aeon-php/calendar-twig/releases/tag/0.10.0), 2 months ago) - 🌱 Twig extension for Aeon Calendar library 
@@ -29,7 +30,6 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 - [rectorphp/rector](https://github.com/rectorphp/rector) ([0.11.0](https://github.com/rectorphp/rector/releases/tag/0.11.0), 3 months ago) - Instant Upgrades and Automated Refactoring of any PHP 5.3&#43; code
 - [structurizr-php/structurizr-php](https://github.com/structurizr-php/structurizr-php) ([0.3.0](https://github.com/structurizr-php/structurizr-php/releases/tag/0.3.0), 4 months ago) - 🗺 https://structurizr.com library for PHP - generate architecture diagrams from code
 - [coduo/php-to-string](https://github.com/coduo/php-to-string) ([3.2.0](https://github.com/coduo/php-to-string/releases/tag/3.2.0), 6 months ago) - Cast any php value into a string 
-- [app-insights-php/app-insights-php-bundle](https://github.com/app-insights-php/app-insights-php-bundle) ([0.2.6](https://github.com/app-insights-php/app-insights-php-bundle/releases/tag/0.2.6), 6 months ago) - Microsoft App Insights Symfony bundle 
 
 ---
 
