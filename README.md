@@ -14,7 +14,7 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 - [norberttech/symfony-process-executor](https://github.com/norberttech/symfony-process-executor) - 💻 Symfony Process Component on steroids, async/sync execution chain. (1 month ago)
 - [flow-php/etl-transformer](https://github.com/flow-php/etl-transformer) - Generic ETL Transformers (2 months ago)
 - [flow-php/flow](https://github.com/flow-php/flow) - PHP data manipulation library build on top of flow-php/etl ETL  (2 months ago)
-- [coduo/php-to-string](https://github.com/coduo/php-to-string) - Cast any php value into a string  (2 months ago)
+- [coduo/php-humanizer](https://github.com/coduo/php-humanizer) - Humanize values that are readable only for developers. (2 months ago)
 
 ---
 
