@@ -5,7 +5,7 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 👷 Check out what I'm currently working on
 
-- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (4 days ago)
+- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (today)
 - [aeon-php/.github](https://github.com/aeon-php/.github) -  (4 days ago)
 - [coduo/php-to-string](https://github.com/coduo/php-to-string) - Cast any php value into a string  (1 week ago)
 - [coduo/php-humanizer](https://github.com/coduo/php-humanizer) - Humanize values that are readable only for developers. (1 week ago)
