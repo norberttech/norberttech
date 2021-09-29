@@ -21,7 +21,7 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 #### 🔭 Latest releases I've contributed to
 
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) ([1.0.3](https://github.com/amazon-php/sp-api-sdk/releases/tag/1.0.3), 1 week ago) - Amazon Selling Partner SPI - PHP SDKs
-- [aeon-php/automation](https://github.com/aeon-php/automation) ([1.0.0](https://github.com/aeon-php/automation/releases/tag/1.0.0), 3 weeks ago) - ⚙️📝 Automatically update project changelog after commit/tag/release/pull request in &#34;keep a changelog&#34; format (or not) 
+- [aeon-php/automation](https://github.com/aeon-php/automation) ([1.0.0](https://github.com/aeon-php/automation/releases/tag/1.0.0), 4 weeks ago) - ⚙️📝 Automatically update project changelog after commit/tag/release/pull request in &#34;keep a changelog&#34; format (or not) 
 - [aeon-php/calendar](https://github.com/aeon-php/calendar) ([1.0.1](https://github.com/aeon-php/calendar/releases/tag/1.0.1), 3 months ago) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way. 
 - [aeon-php/calendar-twig](https://github.com/aeon-php/calendar-twig) ([0.10.0](https://github.com/aeon-php/calendar-twig/releases/tag/0.10.0), 3 months ago) - 🌱 Twig extension for Aeon Calendar library 
 - [coduo/php-matcher](https://github.com/coduo/php-matcher) ([6.0.7](https://github.com/coduo/php-matcher/releases/tag/6.0.7), 3 months ago) - The easiest way to match data structures like JSON/PlainText/XML against readable patterns. Sandbox:
