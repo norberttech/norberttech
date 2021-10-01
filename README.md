@@ -5,23 +5,23 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 👷 Check out what I'm currently working on
 
-- [aeon-php/calendar-doctrine](https://github.com/aeon-php/calendar-doctrine) - 📅Aeaon PHP Framework integration with Doctrine (1 day ago)
-- [aeon-php/automation](https://github.com/aeon-php/automation) - ⚙️📝 Automatically update project changelog after commit/tag/release/pull request in &#34;keep a changelog&#34; format (or not)  (1 day ago)
-- [aeon-php/calendar](https://github.com/aeon-php/calendar) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way.  (1 day ago)
-- [aeon-php/collection](https://github.com/aeon-php/collection) - Aeon Collections (1 day ago)
-- [norberttech/symfony-process-executor](https://github.com/norberttech/symfony-process-executor) - 💻 Symfony Process Component on steroids, async/sync execution chain. (1 day ago)
-- [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (1 day ago)
-- [aeon-php/retry](https://github.com/aeon-php/retry) - 🔁 Retry fragile operations in case of failure with different delay strategies and the possibility to skip/terminate execution (1 day ago)
-- [aeon-php/symfony-bundle](https://github.com/aeon-php/symfony-bundle) - Aeon Symfony Bundle (1 day ago)
-- [aeon-php/calendar-twig](https://github.com/aeon-php/calendar-twig) - 🌱 Twig extension for Aeon Calendar library  (1 day ago)
-- [aeon-php/rate-limiter](https://github.com/aeon-php/rate-limiter) - 🌪 Rate limiter (throttling) library (1 day ago)
+- [aeon-php/calendar-doctrine](https://github.com/aeon-php/calendar-doctrine) - 📅Aeaon PHP Framework integration with Doctrine (2 days ago)
+- [aeon-php/automation](https://github.com/aeon-php/automation) - ⚙️📝 Automatically update project changelog after commit/tag/release/pull request in &#34;keep a changelog&#34; format (or not)  (2 days ago)
+- [aeon-php/calendar](https://github.com/aeon-php/calendar) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way.  (2 days ago)
+- [aeon-php/collection](https://github.com/aeon-php/collection) - Aeon Collections (2 days ago)
+- [norberttech/symfony-process-executor](https://github.com/norberttech/symfony-process-executor) - 💻 Symfony Process Component on steroids, async/sync execution chain. (2 days ago)
+- [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (2 days ago)
+- [aeon-php/retry](https://github.com/aeon-php/retry) - 🔁 Retry fragile operations in case of failure with different delay strategies and the possibility to skip/terminate execution (2 days ago)
+- [aeon-php/symfony-bundle](https://github.com/aeon-php/symfony-bundle) - Aeon Symfony Bundle (2 days ago)
+- [aeon-php/calendar-twig](https://github.com/aeon-php/calendar-twig) - 🌱 Twig extension for Aeon Calendar library  (2 days ago)
+- [aeon-php/rate-limiter](https://github.com/aeon-php/rate-limiter) - 🌪 Rate limiter (throttling) library (2 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) ([1.0.3](https://github.com/amazon-php/sp-api-sdk/releases/tag/1.0.3), 1 week ago) - Amazon Selling Partner SPI - PHP SDKs
-- [aeon-php/automation](https://github.com/aeon-php/automation) ([1.0.0](https://github.com/aeon-php/automation/releases/tag/1.0.0), 4 weeks ago) - ⚙️📝 Automatically update project changelog after commit/tag/release/pull request in &#34;keep a changelog&#34; format (or not) 
+- [aeon-php/automation](https://github.com/aeon-php/automation) ([1.0.0](https://github.com/aeon-php/automation/releases/tag/1.0.0), 1 month ago) - ⚙️📝 Automatically update project changelog after commit/tag/release/pull request in &#34;keep a changelog&#34; format (or not) 
 - [aeon-php/calendar](https://github.com/aeon-php/calendar) ([1.0.1](https://github.com/aeon-php/calendar/releases/tag/1.0.1), 3 months ago) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way. 
 - [aeon-php/calendar-twig](https://github.com/aeon-php/calendar-twig) ([0.10.0](https://github.com/aeon-php/calendar-twig/releases/tag/0.10.0), 3 months ago) - 🌱 Twig extension for Aeon Calendar library 
 - [coduo/php-matcher](https://github.com/coduo/php-matcher) ([6.0.7](https://github.com/coduo/php-matcher/releases/tag/6.0.7), 3 months ago) - The easiest way to match data structures like JSON/PlainText/XML against readable patterns. Sandbox:
