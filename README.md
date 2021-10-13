@@ -9,12 +9,12 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 - [aeon-php/retry](https://github.com/aeon-php/retry) - 🔁 Retry fragile operations in case of failure with different delay strategies and the possibility to skip/terminate execution (1 week ago)
 - [aeon-php/.github](https://github.com/aeon-php/.github) -  (1 week ago)
 - [flow-php/doctrine-dbal-bulk](https://github.com/flow-php/doctrine-dbal-bulk) - Doctrine DBAL Bulk Operations for selected database engines  (1 week ago)
-- [aeon-php/symfony-bundle](https://github.com/aeon-php/symfony-bundle) - Aeon Symfony Bundle (1 week ago)
-- [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (1 week ago)
-- [norberttech/symfony-process-executor](https://github.com/norberttech/symfony-process-executor) - 💻 Symfony Process Component on steroids, async/sync execution chain. (1 week ago)
-- [aeon-php/collection](https://github.com/aeon-php/collection) - Aeon Collections (1 week ago)
-- [aeon-php/rate-limiter](https://github.com/aeon-php/rate-limiter) - 🌪 Rate limiter (throttling) library (1 week ago)
-- [aeon-php/calendar-twig](https://github.com/aeon-php/calendar-twig) - 🌱 Twig extension for Aeon Calendar library  (1 week ago)
+- [aeon-php/symfony-bundle](https://github.com/aeon-php/symfony-bundle) - Aeon Symfony Bundle (2 weeks ago)
+- [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (2 weeks ago)
+- [norberttech/symfony-process-executor](https://github.com/norberttech/symfony-process-executor) - 💻 Symfony Process Component on steroids, async/sync execution chain. (2 weeks ago)
+- [aeon-php/collection](https://github.com/aeon-php/collection) - Aeon Collections (2 weeks ago)
+- [aeon-php/rate-limiter](https://github.com/aeon-php/rate-limiter) - 🌪 Rate limiter (throttling) library (2 weeks ago)
+- [aeon-php/calendar-twig](https://github.com/aeon-php/calendar-twig) - 🌱 Twig extension for Aeon Calendar library  (2 weeks ago)
 
 ---
 
