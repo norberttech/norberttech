@@ -5,14 +5,14 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 👷 Check out what I'm currently working on
 
-- [aeon-php/automation](https://github.com/aeon-php/automation) - ⚙️📝 Automatically update project changelog after commit/tag/release/pull request in &#34;keep a changelog&#34; format (or not)  (1 week ago)
-- [aeon-php/retry](https://github.com/aeon-php/retry) - 🔁 Retry fragile operations in case of failure with different delay strategies and the possibility to skip/terminate execution (1 week ago)
+- [aeon-php/automation-docker](https://github.com/aeon-php/automation-docker) - 🐳 Docker configuration for aeon-php/automation (today)
+- [aeon-php/automation](https://github.com/aeon-php/automation) - ⚙️📝 Automatically update project changelog after commit/tag/release/pull request in &#34;keep a changelog&#34; format (or not)  (today)
 - [aeon-php/.github](https://github.com/aeon-php/.github) -  (1 week ago)
+- [aeon-php/retry](https://github.com/aeon-php/retry) - 🔁 Retry fragile operations in case of failure with different delay strategies and the possibility to skip/terminate execution (1 week ago)
 - [flow-php/doctrine-dbal-bulk](https://github.com/flow-php/doctrine-dbal-bulk) - Doctrine DBAL Bulk Operations for selected database engines  (1 week ago)
-- [aeon-php/symfony-bundle](https://github.com/aeon-php/symfony-bundle) - Aeon Symfony Bundle (2 weeks ago)
+- [norberttech/static-content-generator-bundle](https://github.com/norberttech/static-content-generator-bundle) - Generate static html pages from your symfony application (2 weeks ago)
 - [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (2 weeks ago)
-- [norberttech/symfony-process-executor](https://github.com/norberttech/symfony-process-executor) - 💻 Symfony Process Component on steroids, async/sync execution chain. (2 weeks ago)
-- [aeon-php/collection](https://github.com/aeon-php/collection) - Aeon Collections (2 weeks ago)
+- [aeon-php/symfony-bundle](https://github.com/aeon-php/symfony-bundle) - Aeon Symfony Bundle (2 weeks ago)
 - [aeon-php/rate-limiter](https://github.com/aeon-php/rate-limiter) - 🌪 Rate limiter (throttling) library (2 weeks ago)
 - [aeon-php/calendar-twig](https://github.com/aeon-php/calendar-twig) - 🌱 Twig extension for Aeon Calendar library  (2 weeks ago)
 
@@ -20,7 +20,7 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 🔭 Latest releases I've contributed to
 
-- [aeon-php/automation](https://github.com/aeon-php/automation) ([1.0.1](https://github.com/aeon-php/automation/releases/tag/1.0.1), 1 week ago) - ⚙️📝 Automatically update project changelog after commit/tag/release/pull request in &#34;keep a changelog&#34; format (or not) 
+- [aeon-php/automation](https://github.com/aeon-php/automation) ([1.0.2](https://github.com/aeon-php/automation/releases/tag/1.0.2), today) - ⚙️📝 Automatically update project changelog after commit/tag/release/pull request in &#34;keep a changelog&#34; format (or not) 
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) ([1.0.3](https://github.com/amazon-php/sp-api-sdk/releases/tag/1.0.3), 3 weeks ago) - Amazon Selling Partner SPI - PHP SDKs
 - [aeon-php/calendar](https://github.com/aeon-php/calendar) ([1.0.1](https://github.com/aeon-php/calendar/releases/tag/1.0.1), 3 months ago) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way. 
 - [aeon-php/calendar-twig](https://github.com/aeon-php/calendar-twig) ([0.10.0](https://github.com/aeon-php/calendar-twig/releases/tag/0.10.0), 3 months ago) - 🌱 Twig extension for Aeon Calendar library 
