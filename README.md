@@ -20,7 +20,7 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 🔭 Latest releases I've contributed to
 
-- [rectorphp/rector](https://github.com/rectorphp/rector) ([0.12.1](https://github.com/rectorphp/rector/releases/tag/0.12.1), 1 day ago) - Instant Upgrades and Automated Refactoring of any PHP 5.3&#43; code
+- [rectorphp/rector](https://github.com/rectorphp/rector) ([0.12.2](https://github.com/rectorphp/rector/releases/tag/0.12.2), today) - Instant Upgrades and Automated Refactoring of any PHP 5.3&#43; code
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) ([1.0.4](https://github.com/amazon-php/sp-api-sdk/releases/tag/1.0.4), 3 weeks ago) - Amazon Selling Partner SPI - PHP SDKs
 - [aeon-php/automation](https://github.com/aeon-php/automation) ([1.0.2](https://github.com/aeon-php/automation/releases/tag/1.0.2), 3 weeks ago) - ⚙️📝 Automatically update project changelog after commit/tag/release/pull request in &#34;keep a changelog&#34; format (or not) 
 - [aeon-php/calendar](https://github.com/aeon-php/calendar) ([1.0.1](https://github.com/aeon-php/calendar/releases/tag/1.0.1), 4 months ago) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way. 
