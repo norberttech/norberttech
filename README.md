@@ -6,8 +6,8 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 #### 👷 Check out what I'm currently working on
 
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (3 weeks ago)
-- [aeon-php/automation](https://github.com/aeon-php/automation) - ⚙️📝 Automatically update project changelog after commit/tag/release/pull request in &#34;keep a changelog&#34; format (or not)  (4 weeks ago)
-- [aeon-php/automation-docker](https://github.com/aeon-php/automation-docker) - 🐳 Docker configuration for aeon-php/automation (4 weeks ago)
+- [aeon-php/automation](https://github.com/aeon-php/automation) - ⚙️📝 Automatically update project changelog after commit/tag/release/pull request in &#34;keep a changelog&#34; format (or not)  (1 month ago)
+- [aeon-php/automation-docker](https://github.com/aeon-php/automation-docker) - 🐳 Docker configuration for aeon-php/automation (1 month ago)
 - [aeon-php/.github](https://github.com/aeon-php/.github) -  (1 month ago)
 - [aeon-php/retry](https://github.com/aeon-php/retry) - 🔁 Retry fragile operations in case of failure with different delay strategies and the possibility to skip/terminate execution (1 month ago)
 - [flow-php/doctrine-dbal-bulk](https://github.com/flow-php/doctrine-dbal-bulk) - Doctrine DBAL Bulk Operations for selected database engines  (1 month ago)
@@ -20,9 +20,9 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 🔭 Latest releases I've contributed to
 
-- [rectorphp/rector](https://github.com/rectorphp/rector) ([0.12.3](https://github.com/rectorphp/rector/releases/tag/0.12.3), 1 day ago) - Instant Upgrades and Automated Refactoring of any PHP 5.3&#43; code
+- [rectorphp/rector](https://github.com/rectorphp/rector) ([0.12.3](https://github.com/rectorphp/rector/releases/tag/0.12.3), 2 days ago) - Instant Upgrades and Automated Refactoring of any PHP 5.3&#43; code
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) ([1.0.4](https://github.com/amazon-php/sp-api-sdk/releases/tag/1.0.4), 4 weeks ago) - Amazon Selling Partner SPI - PHP SDKs
-- [aeon-php/automation](https://github.com/aeon-php/automation) ([1.0.2](https://github.com/aeon-php/automation/releases/tag/1.0.2), 4 weeks ago) - ⚙️📝 Automatically update project changelog after commit/tag/release/pull request in &#34;keep a changelog&#34; format (or not) 
+- [aeon-php/automation](https://github.com/aeon-php/automation) ([1.0.2](https://github.com/aeon-php/automation/releases/tag/1.0.2), 1 month ago) - ⚙️📝 Automatically update project changelog after commit/tag/release/pull request in &#34;keep a changelog&#34; format (or not) 
 - [aeon-php/calendar](https://github.com/aeon-php/calendar) ([1.0.1](https://github.com/aeon-php/calendar/releases/tag/1.0.1), 4 months ago) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way. 
 - [aeon-php/calendar-twig](https://github.com/aeon-php/calendar-twig) ([0.10.0](https://github.com/aeon-php/calendar-twig/releases/tag/0.10.0), 4 months ago) - 🌱 Twig extension for Aeon Calendar library 
 - [coduo/php-matcher](https://github.com/coduo/php-matcher) ([6.0.7](https://github.com/coduo/php-matcher/releases/tag/6.0.7), 4 months ago) - The easiest way to match data structures like JSON/PlainText/XML against readable patterns. Sandbox:
