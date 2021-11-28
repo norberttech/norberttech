@@ -7,14 +7,14 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (5 days ago)
 - [aeon-php/calendar](https://github.com/aeon-php/calendar) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way.  (2 weeks ago)
-- [aeon-php/automation-docker](https://github.com/aeon-php/automation-docker) - 🐳 Docker configuration for aeon-php/automation (1 month ago)
 - [aeon-php/automation](https://github.com/aeon-php/automation) - ⚙️📝 Automatically update project changelog after commit/tag/release/pull request in &#34;keep a changelog&#34; format (or not)  (1 month ago)
-- [aeon-php/retry](https://github.com/aeon-php/retry) - 🔁 Retry fragile operations in case of failure with different delay strategies and the possibility to skip/terminate execution (1 month ago)
+- [aeon-php/automation-docker](https://github.com/aeon-php/automation-docker) - 🐳 Docker configuration for aeon-php/automation (1 month ago)
 - [aeon-php/.github](https://github.com/aeon-php/.github) -  (1 month ago)
+- [aeon-php/retry](https://github.com/aeon-php/retry) - 🔁 Retry fragile operations in case of failure with different delay strategies and the possibility to skip/terminate execution (1 month ago)
 - [flow-php/doctrine-dbal-bulk](https://github.com/flow-php/doctrine-dbal-bulk) - Doctrine DBAL Bulk Operations for selected database engines  (1 month ago)
-- [aeon-php/sleep](https://github.com/aeon-php/sleep) - 😴 Improved sleep function that uses simple TimeUnit and decides between \sleep and \usleep (2 months ago)
-- [norberttech/symfony-process-executor](https://github.com/norberttech/symfony-process-executor) - 💻 Symfony Process Component on steroids, async/sync execution chain. (2 months ago)
+- [aeon-php/rate-limiter](https://github.com/aeon-php/rate-limiter) - 🌪 Rate limiter (throttling) library (2 months ago)
 - [aeon-php/calendar-doctrine](https://github.com/aeon-php/calendar-doctrine) - 📅Aeaon PHP Framework integration with Doctrine (2 months ago)
+- [aeon-php/symfony-bundle](https://github.com/aeon-php/symfony-bundle) - Aeon Symfony Bundle (2 months ago)
 
 ---
 
