@@ -5,24 +5,24 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 👷 Check out what I'm currently working on
 
-- [aeon-php/calendar-doctrine](https://github.com/aeon-php/calendar-doctrine) - 📅Aeaon PHP Framework integration with Doctrine (1 day ago)
-- [aeon-php/automation](https://github.com/aeon-php/automation) - ⚙️📝 Automatically update project changelog after commit/tag/release/pull request in &#34;keep a changelog&#34; format (or not)  (1 day ago)
+- [aeon-php/.github](https://github.com/aeon-php/.github) -  (today)
+- [aeon-php/business-hours](https://github.com/aeon-php/business-hours) - 🕰 Find the next working day, defined business hours. (today)
+- [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (today)
 - [aeon-php/calendar](https://github.com/aeon-php/calendar) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way.  (1 day ago)
+- [aeon-php/automation](https://github.com/aeon-php/automation) - ⚙️📝 Automatically update project changelog after commit/tag/release/pull request in &#34;keep a changelog&#34; format (or not)  (1 day ago)
+- [aeon-php/calendar-doctrine](https://github.com/aeon-php/calendar-doctrine) - 📅Aeaon PHP Framework integration with Doctrine (1 day ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (1 week ago)
 - [aeon-php/automation-docker](https://github.com/aeon-php/automation-docker) - 🐳 Docker configuration for aeon-php/automation (1 month ago)
-- [aeon-php/.github](https://github.com/aeon-php/.github) -  (2 months ago)
 - [aeon-php/retry](https://github.com/aeon-php/retry) - 🔁 Retry fragile operations in case of failure with different delay strategies and the possibility to skip/terminate execution (2 months ago)
 - [flow-php/doctrine-dbal-bulk](https://github.com/flow-php/doctrine-dbal-bulk) - Doctrine DBAL Bulk Operations for selected database engines  (2 months ago)
-- [aeon-php/calendar-holidays-yasumi](https://github.com/aeon-php/calendar-holidays-yasumi) - ⛩ Bridge for Aeon Calendar Holidays library and Yasumi (2 months ago)
-- [aeon-php/business-hours](https://github.com/aeon-php/business-hours) - 🕰 Find the next working day, defined business hours. (2 months ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
+- [aeon-php/calendar](https://github.com/aeon-php/calendar) ([1.0.2](https://github.com/aeon-php/calendar/releases/tag/1.0.2), today) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way. 
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) ([1.0.4](https://github.com/amazon-php/sp-api-sdk/releases/tag/1.0.4), 1 month ago) - Amazon Selling Partner SPI - PHP SDKs
 - [aeon-php/automation](https://github.com/aeon-php/automation) ([1.0.2](https://github.com/aeon-php/automation/releases/tag/1.0.2), 1 month ago) - ⚙️📝 Automatically update project changelog after commit/tag/release/pull request in &#34;keep a changelog&#34; format (or not) 
-- [aeon-php/calendar](https://github.com/aeon-php/calendar) ([1.0.1](https://github.com/aeon-php/calendar/releases/tag/1.0.1), 5 months ago) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way. 
 - [aeon-php/calendar-twig](https://github.com/aeon-php/calendar-twig) ([0.10.0](https://github.com/aeon-php/calendar-twig/releases/tag/0.10.0), 5 months ago) - 🌱 Twig extension for Aeon Calendar library 
 - [coduo/php-matcher](https://github.com/coduo/php-matcher) ([6.0.7](https://github.com/coduo/php-matcher/releases/tag/6.0.7), 5 months ago) - The easiest way to match data structures like JSON/PlainText/XML against readable patterns. Sandbox:
 - [coduo/php-humanizer](https://github.com/coduo/php-humanizer) ([4.0.2](https://github.com/coduo/php-humanizer/releases/tag/4.0.2), 5 months ago) - Humanize values that are readable only for developers.
