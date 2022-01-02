@@ -7,8 +7,8 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 - [aeon-php/automation](https://github.com/aeon-php/automation) - ⚙️📝 Automatically update project changelog after commit/tag/release/pull request in &#34;keep a changelog&#34; format (or not)  (today)
 - [aeon-php/calendar](https://github.com/aeon-php/calendar) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way.  (today)
-- [norberttech/static-content-generator-bundle](https://github.com/norberttech/static-content-generator-bundle) - Generate static html pages from your symfony application (1 day ago)
 - [norberttech/symfony-process-executor](https://github.com/norberttech/symfony-process-executor) - 💻 Symfony Process Component on steroids, async/sync execution chain. (1 day ago)
+- [norberttech/static-content-generator-bundle](https://github.com/norberttech/static-content-generator-bundle) - Generate static html pages from your symfony application (1 day ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (5 days ago)
 - [aeon-php/symfony-bundle](https://github.com/aeon-php/symfony-bundle) - Aeon Symfony Bundle (3 weeks ago)
 - [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (3 weeks ago)
