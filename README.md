@@ -5,23 +5,23 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 👷 Check out what I'm currently working on
 
-- [aeon-php/.github](https://github.com/aeon-php/.github) -  (1 day ago)
-- [aeon-php/business-hours](https://github.com/aeon-php/business-hours) - 🕰 Find the next working day, defined business hours. (1 day ago)
-- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (1 day ago)
+- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (today)
+- [coduo/php-matcher](https://github.com/coduo/php-matcher) - The easiest way to match data structures like JSON/PlainText/XML against readable patterns. Sandbox: (today)
+- [aeon-php/sleep](https://github.com/aeon-php/sleep) - 😴 Improved sleep function that uses simple TimeUnit and decides between \sleep and \usleep (1 day ago)
 - [aeon-php/calendar-doctrine](https://github.com/aeon-php/calendar-doctrine) - 📅Aeaon PHP Framework integration with Doctrine (1 day ago)
 - [aeon-php/calendar](https://github.com/aeon-php/calendar) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way.  (1 day ago)
 - [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (1 day ago)
+- [aeon-php/business-hours](https://github.com/aeon-php/business-hours) - 🕰 Find the next working day, defined business hours. (1 day ago)
 - [aeon-php/calendar-holidays-yasumi](https://github.com/aeon-php/calendar-holidays-yasumi) - ⛩ Bridge for Aeon Calendar Holidays library and Yasumi (1 day ago)
 - [aeon-php/symfony-bundle](https://github.com/aeon-php/symfony-bundle) - Aeon Symfony Bundle (1 day ago)
 - [aeon-php/calendar-twig](https://github.com/aeon-php/calendar-twig) - 🌱 Twig extension for Aeon Calendar library  (1 day ago)
-- [aeon-php/rate-limiter](https://github.com/aeon-php/rate-limiter) - 🌪 Rate limiter (throttling) library (1 day ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
+- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) ([2.1.2](https://github.com/amazon-php/sp-api-sdk/releases/tag/2.1.2), today) - Amazon Selling Partner SPI - PHP SDKs
 - [aeon-php/sleep](https://github.com/aeon-php/sleep) ([1.0.3](https://github.com/aeon-php/sleep/releases/tag/1.0.3), 1 day ago) - 😴 Improved sleep function that uses simple TimeUnit and decides between \sleep and \usleep
-- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) ([3.0.3](https://github.com/amazon-php/sp-api-sdk/releases/tag/3.0.3), 2 days ago) - Amazon Selling Partner SPI - PHP SDKs
 - [aeon-php/calendar-twig](https://github.com/aeon-php/calendar-twig) ([0.11.0](https://github.com/aeon-php/calendar-twig/releases/tag/0.11.0), 3 days ago) - 🌱 Twig extension for Aeon Calendar library 
 - [aeon-php/calendar](https://github.com/aeon-php/calendar) ([1.0.3](https://github.com/aeon-php/calendar/releases/tag/1.0.3), 3 days ago) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way. 
 - [aeon-php/automation](https://github.com/aeon-php/automation) ([1.0.3](https://github.com/aeon-php/automation/releases/tag/1.0.3), 5 days ago) - ⚙️📝 Automatically update project changelog after commit/tag/release/pull request in &#34;keep a changelog&#34; format (or not) 
