@@ -5,22 +5,22 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 👷 Check out what I'm currently working on
 
+- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (today)
 - [aeon-php/sleep](https://github.com/aeon-php/sleep) - 😴 Improved sleep function that uses simple TimeUnit and decides between \sleep and \usleep (2 days ago)
 - [aeon-php/business-hours](https://github.com/aeon-php/business-hours) - 🕰 Find the next working day, defined business hours. (2 days ago)
 - [aeon-php/retry](https://github.com/aeon-php/retry) - 🔁 Retry fragile operations in case of failure with different delay strategies and the possibility to skip/terminate execution (2 days ago)
-- [aeon-php/calendar-twig](https://github.com/aeon-php/calendar-twig) - 🌱 Twig extension for Aeon Calendar library  (2 days ago)
 - [aeon-php/calendar](https://github.com/aeon-php/calendar) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way.  (2 days ago)
 - [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (2 days ago)
 - [aeon-php/symfony-bundle](https://github.com/aeon-php/symfony-bundle) - Aeon Symfony Bundle (2 days ago)
+- [aeon-php/calendar-twig](https://github.com/aeon-php/calendar-twig) - 🌱 Twig extension for Aeon Calendar library  (2 days ago)
 - [aeon-php/rate-limiter](https://github.com/aeon-php/rate-limiter) - 🌪 Rate limiter (throttling) library (2 days ago)
-- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (3 days ago)
 - [aeon-php/calendar-doctrine](https://github.com/aeon-php/calendar-doctrine) - 📅Aeaon PHP Framework integration with Doctrine (4 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) ([3.0.5](https://github.com/amazon-php/sp-api-sdk/releases/tag/3.0.5), 3 days ago) - Amazon Selling Partner SPI - PHP SDKs
+- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) ([3.0.6](https://github.com/amazon-php/sp-api-sdk/releases/tag/3.0.6), today) - Amazon Selling Partner SPI - PHP SDKs
 - [aeon-php/sleep](https://github.com/aeon-php/sleep) ([1.0.3](https://github.com/aeon-php/sleep/releases/tag/1.0.3), 1 week ago) - 😴 Improved sleep function that uses simple TimeUnit and decides between \sleep and \usleep
 - [aeon-php/calendar-twig](https://github.com/aeon-php/calendar-twig) ([0.11.0](https://github.com/aeon-php/calendar-twig/releases/tag/0.11.0), 1 week ago) - 🌱 Twig extension for Aeon Calendar library 
 - [aeon-php/calendar](https://github.com/aeon-php/calendar) ([1.0.3](https://github.com/aeon-php/calendar/releases/tag/1.0.3), 1 week ago) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way. 
