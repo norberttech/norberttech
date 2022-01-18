@@ -5,25 +5,25 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 👷 Check out what I'm currently working on
 
-- [aeon-php/calendar-twig](https://github.com/aeon-php/calendar-twig) - 🌱 Twig extension for Aeon Calendar library  (today)
-- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (today)
-- [aeon-php/retry](https://github.com/aeon-php/retry) - 🔁 Retry fragile operations in case of failure with different delay strategies and the possibility to skip/terminate execution (today)
-- [aeon-php/calendar-doctrine](https://github.com/aeon-php/calendar-doctrine) - 📅Aeaon PHP Framework integration with Doctrine (today)
-- [aeon-php/calendar](https://github.com/aeon-php/calendar) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way.  (today)
-- [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (today)
-- [aeon-php/symfony-bundle](https://github.com/aeon-php/symfony-bundle) - Aeon Symfony Bundle (today)
-- [aeon-php/rate-limiter](https://github.com/aeon-php/rate-limiter) - 🌪 Rate limiter (throttling) library (today)
-- [aeon-php/collection](https://github.com/aeon-php/collection) - Aeon Collections (today)
-- [aeon-php/sleep](https://github.com/aeon-php/sleep) - 😴 Improved sleep function that uses simple TimeUnit and decides between \sleep and \usleep (today)
+- [aeon-php/calendar-twig](https://github.com/aeon-php/calendar-twig) - 🌱 Twig extension for Aeon Calendar library  (1 day ago)
+- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (1 day ago)
+- [aeon-php/retry](https://github.com/aeon-php/retry) - 🔁 Retry fragile operations in case of failure with different delay strategies and the possibility to skip/terminate execution (1 day ago)
+- [aeon-php/calendar-doctrine](https://github.com/aeon-php/calendar-doctrine) - 📅Aeaon PHP Framework integration with Doctrine (1 day ago)
+- [aeon-php/calendar](https://github.com/aeon-php/calendar) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way.  (1 day ago)
+- [aeon-php/calendar-holidays](https://github.com/aeon-php/calendar-holidays) - 🎄Holidays abstraction for Aeon time management framework  (1 day ago)
+- [aeon-php/symfony-bundle](https://github.com/aeon-php/symfony-bundle) - Aeon Symfony Bundle (1 day ago)
+- [aeon-php/rate-limiter](https://github.com/aeon-php/rate-limiter) - 🌪 Rate limiter (throttling) library (1 day ago)
+- [aeon-php/collection](https://github.com/aeon-php/collection) - Aeon Collections (1 day ago)
+- [aeon-php/sleep](https://github.com/aeon-php/sleep) - 😴 Improved sleep function that uses simple TimeUnit and decides between \sleep and \usleep (1 day ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) ([3.0.6](https://github.com/amazon-php/sp-api-sdk/releases/tag/3.0.6), 1 day ago) - Amazon Selling Partner SPI - PHP SDKs
+- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) ([3.0.6](https://github.com/amazon-php/sp-api-sdk/releases/tag/3.0.6), 2 days ago) - Amazon Selling Partner SPI - PHP SDKs
 - [aeon-php/sleep](https://github.com/aeon-php/sleep) ([1.0.3](https://github.com/aeon-php/sleep/releases/tag/1.0.3), 1 week ago) - 😴 Improved sleep function that uses simple TimeUnit and decides between \sleep and \usleep
-- [aeon-php/calendar-twig](https://github.com/aeon-php/calendar-twig) ([0.11.0](https://github.com/aeon-php/calendar-twig/releases/tag/0.11.0), 1 week ago) - 🌱 Twig extension for Aeon Calendar library 
-- [aeon-php/calendar](https://github.com/aeon-php/calendar) ([1.0.3](https://github.com/aeon-php/calendar/releases/tag/1.0.3), 1 week ago) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way. 
+- [aeon-php/calendar-twig](https://github.com/aeon-php/calendar-twig) ([0.11.0](https://github.com/aeon-php/calendar-twig/releases/tag/0.11.0), 2 weeks ago) - 🌱 Twig extension for Aeon Calendar library 
+- [aeon-php/calendar](https://github.com/aeon-php/calendar) ([1.0.3](https://github.com/aeon-php/calendar/releases/tag/1.0.3), 2 weeks ago) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way. 
 - [aeon-php/automation](https://github.com/aeon-php/automation) ([1.0.3](https://github.com/aeon-php/automation/releases/tag/1.0.3), 2 weeks ago) - ⚙️📝 Automatically update project changelog after commit/tag/release/pull request in &#34;keep a changelog&#34; format (or not) 
 - [norberttech/static-content-generator-bundle](https://github.com/norberttech/static-content-generator-bundle) ([0.4.0](https://github.com/norberttech/static-content-generator-bundle/releases/tag/0.4.0), 2 weeks ago) - Generate static html pages from your symfony application
 - [norberttech/symfony-process-executor](https://github.com/norberttech/symfony-process-executor) ([2.1.0](https://github.com/norberttech/symfony-process-executor/releases/tag/2.1.0), 2 weeks ago) - 💻 Symfony Process Component on steroids, async/sync execution chain.
