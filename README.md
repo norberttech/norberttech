@@ -5,9 +5,9 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 👷 Check out what I'm currently working on
 
+- [flow-php/etl](https://github.com/flow-php/etl) - Extract Transform Load - Abstraction (today)
 - [flow-php/etl-adapter-json](https://github.com/flow-php/etl-adapter-json) - ETL Adapter: JSON (3 days ago)
 - [flow-php/etl-async](https://github.com/flow-php/etl-async) - Asynchronouse pipeline for Flow ETL  (3 days ago)
-- [flow-php/etl](https://github.com/flow-php/etl) - Extract Transform Load - Abstraction (5 days ago)
 - [norberttech/static-content-generator-bundle](https://github.com/norberttech/static-content-generator-bundle) - Generate static html pages from your symfony application (2 weeks ago)
 - [flow-php/etl-transformer](https://github.com/flow-php/etl-transformer) - Generic ETL Transformers (2 weeks ago)
 - [aeon-php/calendar](https://github.com/aeon-php/calendar) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way.  (2 weeks ago)
