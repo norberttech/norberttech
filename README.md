@@ -5,16 +5,16 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 👷 Check out what I'm currently working on
 
+- [flow-php/doctrine-dbal-bulk](https://github.com/flow-php/doctrine-dbal-bulk) - Doctrine DBAL Bulk Operations for selected database engines  (today)
+- [flow-php/etl-adapter-json](https://github.com/flow-php/etl-adapter-json) - ETL Adapter: JSON (today)
+- [flow-php/etl-transformer](https://github.com/flow-php/etl-transformer) - Generic ETL Transformers (today)
 - [flow-php/etl](https://github.com/flow-php/etl) - Extract Transform Load - Abstraction (today)
-- [flow-php/etl-adapter-json](https://github.com/flow-php/etl-adapter-json) - ETL Adapter: JSON (3 days ago)
+- [flow-php/etl-adapter-doctrine](https://github.com/flow-php/etl-adapter-doctrine) - ETL Adapter: Doctrine (today)
+- [flow-php/etl-adapter-elasticsearch](https://github.com/flow-php/etl-adapter-elasticsearch) - ETL Adapter: Elasticsearch (today)
 - [flow-php/etl-async](https://github.com/flow-php/etl-async) - Asynchronouse pipeline for Flow ETL  (3 days ago)
 - [norberttech/static-content-generator-bundle](https://github.com/norberttech/static-content-generator-bundle) - Generate static html pages from your symfony application (2 weeks ago)
-- [flow-php/etl-transformer](https://github.com/flow-php/etl-transformer) - Generic ETL Transformers (2 weeks ago)
-- [aeon-php/calendar](https://github.com/aeon-php/calendar) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way.  (2 weeks ago)
 - [flow-php/.github](https://github.com/flow-php/.github) -  (2 weeks ago)
-- [flow-php/etl-adapter-csv](https://github.com/flow-php/etl-adapter-csv) - ETL Adapter: CSV (2 weeks ago)
-- [flow-php/etl-adapter-memory](https://github.com/flow-php/etl-adapter-memory) - ETL Adapter: Memory (2 weeks ago)
-- [aeon-php/calendar-holidays-yasumi](https://github.com/aeon-php/calendar-holidays-yasumi) - ⛩ Bridge for Aeon Calendar Holidays library and Yasumi (3 weeks ago)
+- [aeon-php/calendar](https://github.com/aeon-php/calendar) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way.  (2 weeks ago)
 
 ---
 
