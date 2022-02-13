@@ -6,15 +6,15 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 #### 👷 Check out what I'm currently working on
 
 - [flow-php/etl-loader](https://github.com/flow-php/etl-loader) - Generic ETL Loaders (today)
-- [flow-php/.github](https://github.com/flow-php/.github) -  (today)
+- [flow-php/etl-adapter-logger](https://github.com/flow-php/etl-adapter-logger) - PHP ETL - Adapter - Logger (today)
 - [flow-php/etl-async](https://github.com/flow-php/etl-async) - Flow ETL asynchronous processing abstraction  (today)
 - [flow-php/etl](https://github.com/flow-php/etl) - Extract Transform Load - Abstraction (today)
-- [flow-php/etl-adapter-logger](https://github.com/flow-php/etl-adapter-logger) - PHP ETL - Adapter - Logger (today)
+- [flow-php/.github](https://github.com/flow-php/.github) -  (today)
 - [flow-php/etl-adapter-elasticsearch](https://github.com/flow-php/etl-adapter-elasticsearch) - ETL Adapter: Elasticsearch (1 day ago)
 - [flow-php/doctrine-dbal-bulk](https://github.com/flow-php/doctrine-dbal-bulk) - Doctrine DBAL Bulk Operations for selected database engines  (1 day ago)
 - [flow-php/etl-adapter-memory](https://github.com/flow-php/etl-adapter-memory) - ETL Adapter: Memory (1 day ago)
 - [flow-php/etl-transformer](https://github.com/flow-php/etl-transformer) - Generic ETL Transformers (1 day ago)
-- [flow-php/etl-adapter-json](https://github.com/flow-php/etl-adapter-json) - ETL Adapter: JSON (1 day ago)
+- [flow-php/etl-adapter-doctrine](https://github.com/flow-php/etl-adapter-doctrine) - ETL Adapter: Doctrine (1 day ago)
 
 ---
 
@@ -29,7 +29,7 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 - [norberttech/symfony-process-executor](https://github.com/norberttech/symfony-process-executor) ([2.1.0](https://github.com/norberttech/symfony-process-executor/releases/tag/2.1.0), 1 month ago) - 💻 Symfony Process Component on steroids, async/sync execution chain.
 - [coduo/php-matcher](https://github.com/coduo/php-matcher) ([6.0.7](https://github.com/coduo/php-matcher/releases/tag/6.0.7), 7 months ago) - The easiest way to match data structures like JSON/PlainText/XML against readable patterns. Sandbox:
 - [coduo/php-humanizer](https://github.com/coduo/php-humanizer) ([4.0.2](https://github.com/coduo/php-humanizer/releases/tag/4.0.2), 7 months ago) - Humanize values that are readable only for developers.
-- [structurizr-php/structurizr-php](https://github.com/structurizr-php/structurizr-php) ([0.3.0](https://github.com/structurizr-php/structurizr-php/releases/tag/0.3.0), 10 months ago) - 🗺 https://structurizr.com library for PHP - generate architecture diagrams from code
+- [coduo/php-to-string](https://github.com/coduo/php-to-string) ([3.2.0](https://github.com/coduo/php-to-string/releases/tag/3.2.0), 11 months ago) - Cast any php value into a string 
 
 ---
 
