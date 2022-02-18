@@ -5,15 +5,15 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 👷 Check out what I'm currently working on
 
+- [flow-php/array-dot](https://github.com/flow-php/array-dot) - Helper functions to access arrays in custom array dot notation  (today)
 - [flow-php/etl-transformer](https://github.com/flow-php/etl-transformer) - Generic ETL Transformers (4 days ago)
 - [flow-php/etl](https://github.com/flow-php/etl) - Extract Transform Load - Abstraction (4 days ago)
 - [flow-php/etl-async](https://github.com/flow-php/etl-async) - Flow ETL asynchronous processing abstraction  (4 days ago)
+- [flow-php/.github](https://github.com/flow-php/.github) -  (5 days ago)
 - [flow-php/etl-loader](https://github.com/flow-php/etl-loader) - Generic ETL Loaders (5 days ago)
 - [flow-php/etl-adapter-logger](https://github.com/flow-php/etl-adapter-logger) - PHP ETL - Adapter - Logger (5 days ago)
-- [flow-php/.github](https://github.com/flow-php/.github) -  (5 days ago)
-- [flow-php/etl-adapter-elasticsearch](https://github.com/flow-php/etl-adapter-elasticsearch) - ETL Adapter: Elasticsearch (6 days ago)
-- [flow-php/doctrine-dbal-bulk](https://github.com/flow-php/doctrine-dbal-bulk) - Doctrine DBAL Bulk Operations for selected database engines  (6 days ago)
 - [flow-php/etl-adapter-memory](https://github.com/flow-php/etl-adapter-memory) - ETL Adapter: Memory (6 days ago)
+- [flow-php/doctrine-dbal-bulk](https://github.com/flow-php/doctrine-dbal-bulk) - Doctrine DBAL Bulk Operations for selected database engines  (6 days ago)
 - [flow-php/etl-adapter-doctrine](https://github.com/flow-php/etl-adapter-doctrine) - ETL Adapter: Doctrine (6 days ago)
 
 ---
