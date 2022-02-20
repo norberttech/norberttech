@@ -7,14 +7,14 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 - [flow-php/etl](https://github.com/flow-php/etl) - PHP - ETL (Extract Transform Load) data processing library  (today)
 - [flow-php/etl-adapter-memory](https://github.com/flow-php/etl-adapter-memory) - ETL Adapter: Memory (today)
+- [flow-php/etl-adapter-elasticsearch](https://github.com/flow-php/etl-adapter-elasticsearch) - ETL Adapter: Elasticsearch (today)
+- [flow-php/.github](https://github.com/flow-php/.github) -  (today)
 - [flow-php/etl-loader](https://github.com/flow-php/etl-loader) - Generic ETL Loaders (1 day ago)
-- [flow-php/etl-transformer](https://github.com/flow-php/etl-transformer) - Generic ETL Transformers (1 day ago)
-- [flow-php/.github](https://github.com/flow-php/.github) -  (1 day ago)
 - [flow-php/etl-adapter-json](https://github.com/flow-php/etl-adapter-json) - ETL Adapter: JSON (1 day ago)
+- [flow-php/etl-transformer](https://github.com/flow-php/etl-transformer) - Generic ETL Transformers (1 day ago)
 - [flow-php/array-dot](https://github.com/flow-php/array-dot) - Helper functions to access arrays in custom array dot notation  (2 days ago)
 - [flow-php/etl-async](https://github.com/flow-php/etl-async) - Flow ETL asynchronous processing abstraction  (6 days ago)
 - [flow-php/etl-adapter-logger](https://github.com/flow-php/etl-adapter-logger) - PHP ETL - Adapter - Logger (1 week ago)
-- [flow-php/etl-adapter-elasticsearch](https://github.com/flow-php/etl-adapter-elasticsearch) - ETL Adapter: Elasticsearch (1 week ago)
 
 ---
 
