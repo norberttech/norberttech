@@ -9,11 +9,11 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 - [flow-php/etl](https://github.com/flow-php/etl) - PHP - ETL (Extract Transform Load) data processing library  (today)
 - [flow-php/etl-adapter-elasticsearch](https://github.com/flow-php/etl-adapter-elasticsearch) - ETL Adapter: Elasticsearch (today)
 - [flow-php/etl-adapter-http](https://github.com/flow-php/etl-adapter-http) - PHP ETL - Adapter - Http (today)
-- [flow-php/.github](https://github.com/flow-php/.github) -  (today)
+- [flow-php/etl-adapter-json](https://github.com/flow-php/etl-adapter-json) - ETL Adapter: JSON (today)
 - [flow-php/etl-adapter-memory](https://github.com/flow-php/etl-adapter-memory) - ETL Adapter: Memory (today)
 - [flow-php/etl-adapter-xml](https://github.com/flow-php/etl-adapter-xml) - ETL Adapter: XML (today)
 - [flow-php/etl-adapter-doctrine](https://github.com/flow-php/etl-adapter-doctrine) - ETL Adapter: Doctrine (today)
-- [flow-php/etl-adapter-json](https://github.com/flow-php/etl-adapter-json) - ETL Adapter: JSON (today)
+- [flow-php/.github](https://github.com/flow-php/.github) -  (today)
 - [flow-php/etl-loader](https://github.com/flow-php/etl-loader) - Generic ETL Loaders (1 day ago)
 
 ---
