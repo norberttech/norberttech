@@ -6,8 +6,8 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 #### 👷 Check out what I'm currently working on
 
 - [flow-php/doctrine-dbal-bulk](https://github.com/flow-php/doctrine-dbal-bulk) - Doctrine DBAL Bulk Operations for selected database engines  (today)
+- [flow-php/etl](https://github.com/flow-php/etl) - PHP - ETL (Extract Transform Load) data processing library  (today)
 - [aeon-php/calendar-doctrine](https://github.com/aeon-php/calendar-doctrine) - 📅Aeaon PHP Framework integration with Doctrine (today)
-- [flow-php/etl](https://github.com/flow-php/etl) - PHP - ETL (Extract Transform Load) data processing library  (3 days ago)
 - [flow-php/etl-adapter-json](https://github.com/flow-php/etl-adapter-json) - ETL Adapter: JSON (3 days ago)
 - [flow-php/etl-adapter-http](https://github.com/flow-php/etl-adapter-http) - PHP ETL - Adapter - Http (3 days ago)
 - [flow-php/.github](https://github.com/flow-php/.github) -  (3 days ago)
