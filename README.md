@@ -5,22 +5,22 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 👷 Check out what I'm currently working on
 
-- [flow-php/doctrine-dbal-bulk](https://github.com/flow-php/doctrine-dbal-bulk) - Doctrine DBAL Bulk Operations for selected database engines  (1 day ago)
-- [flow-php/etl](https://github.com/flow-php/etl) - PHP - ETL (Extract Transform Load) data processing library  (1 day ago)
-- [aeon-php/calendar-doctrine](https://github.com/aeon-php/calendar-doctrine) - 📅Aeaon PHP Framework integration with Doctrine (1 day ago)
-- [flow-php/etl-adapter-json](https://github.com/flow-php/etl-adapter-json) - ETL Adapter: JSON (4 days ago)
-- [flow-php/etl-adapter-http](https://github.com/flow-php/etl-adapter-http) - PHP ETL - Adapter - Http (4 days ago)
-- [flow-php/.github](https://github.com/flow-php/.github) -  (4 days ago)
-- [flow-php/etl-adapter-doctrine](https://github.com/flow-php/etl-adapter-doctrine) - ETL Adapter: Doctrine (4 days ago)
-- [flow-php/etl-adapter-elasticsearch](https://github.com/flow-php/etl-adapter-elasticsearch) - ETL Adapter: Elasticsearch (4 days ago)
-- [flow-php/etl-adapter-memory](https://github.com/flow-php/etl-adapter-memory) - ETL Adapter: Memory (4 days ago)
-- [flow-php/etl-adapter-csv](https://github.com/flow-php/etl-adapter-csv) - ETL Adapter: CSV (4 days ago)
+- [flow-php/doctrine-dbal-bulk](https://github.com/flow-php/doctrine-dbal-bulk) - Doctrine DBAL Bulk Operations for selected database engines  (2 days ago)
+- [flow-php/etl](https://github.com/flow-php/etl) - PHP - ETL (Extract Transform Load) data processing library  (2 days ago)
+- [aeon-php/calendar-doctrine](https://github.com/aeon-php/calendar-doctrine) - 📅Aeaon PHP Framework integration with Doctrine (2 days ago)
+- [flow-php/etl-adapter-json](https://github.com/flow-php/etl-adapter-json) - ETL Adapter: JSON (5 days ago)
+- [flow-php/etl-adapter-http](https://github.com/flow-php/etl-adapter-http) - PHP ETL - Adapter - Http (5 days ago)
+- [flow-php/.github](https://github.com/flow-php/.github) -  (5 days ago)
+- [flow-php/etl-adapter-doctrine](https://github.com/flow-php/etl-adapter-doctrine) - ETL Adapter: Doctrine (5 days ago)
+- [flow-php/etl-adapter-elasticsearch](https://github.com/flow-php/etl-adapter-elasticsearch) - ETL Adapter: Elasticsearch (5 days ago)
+- [flow-php/etl-adapter-memory](https://github.com/flow-php/etl-adapter-memory) - ETL Adapter: Memory (5 days ago)
+- [flow-php/etl-adapter-csv](https://github.com/flow-php/etl-adapter-csv) - ETL Adapter: CSV (5 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [aeon-php/calendar](https://github.com/aeon-php/calendar) ([1.0.4](https://github.com/aeon-php/calendar/releases/tag/1.0.4), 3 weeks ago) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way. 
+- [aeon-php/calendar](https://github.com/aeon-php/calendar) ([1.0.4](https://github.com/aeon-php/calendar/releases/tag/1.0.4), 4 weeks ago) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way. 
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) ([3.0.6](https://github.com/amazon-php/sp-api-sdk/releases/tag/3.0.6), 1 month ago) - Amazon Selling Partner SPI - PHP SDKs
 - [aeon-php/sleep](https://github.com/aeon-php/sleep) ([1.0.3](https://github.com/aeon-php/sleep/releases/tag/1.0.3), 1 month ago) - 😴 Improved sleep function that uses simple TimeUnit and decides between \sleep and \usleep
 - [aeon-php/calendar-twig](https://github.com/aeon-php/calendar-twig) ([0.11.0](https://github.com/aeon-php/calendar-twig/releases/tag/0.11.0), 1 month ago) - 🌱 Twig extension for Aeon Calendar library 
