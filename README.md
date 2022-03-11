@@ -5,14 +5,14 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 👷 Check out what I'm currently working on
 
+- [norberttech/nix-phpunit-es](https://github.com/norberttech/nix-phpunit-es) -  (today)
 - [flow-php/etl](https://github.com/flow-php/etl) - PHP - ETL (Extract Transform Load) data processing library  (2 days ago)
 - [flow-php/.github](https://github.com/flow-php/.github) -  (1 week ago)
 - [flow-php/doctrine-dbal-bulk](https://github.com/flow-php/doctrine-dbal-bulk) - Doctrine DBAL Bulk Operations for selected database engines  (2 weeks ago)
 - [aeon-php/calendar-doctrine](https://github.com/aeon-php/calendar-doctrine) - 📅Aeaon PHP Framework integration with Doctrine (2 weeks ago)
-- [flow-php/etl-adapter-json](https://github.com/flow-php/etl-adapter-json) - ETL Adapter: JSON (2 weeks ago)
-- [flow-php/etl-adapter-elasticsearch](https://github.com/flow-php/etl-adapter-elasticsearch) - ETL Adapter: Elasticsearch (2 weeks ago)
+- [flow-php/etl-adapter-doctrine](https://github.com/flow-php/etl-adapter-doctrine) - ETL Adapter: Doctrine (2 weeks ago)
 - [flow-php/etl-adapter-memory](https://github.com/flow-php/etl-adapter-memory) - ETL Adapter: Memory (2 weeks ago)
-- [flow-php/etl-adapter-http](https://github.com/flow-php/etl-adapter-http) - PHP ETL - Adapter - Http (2 weeks ago)
+- [flow-php/etl-adapter-json](https://github.com/flow-php/etl-adapter-json) - ETL Adapter: JSON (2 weeks ago)
 - [flow-php/etl-adapter-csv](https://github.com/flow-php/etl-adapter-csv) - ETL Adapter: CSV (2 weeks ago)
 - [flow-php/etl-adapter-xml](https://github.com/flow-php/etl-adapter-xml) - ETL Adapter: XML (2 weeks ago)
 
