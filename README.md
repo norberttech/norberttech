@@ -5,16 +5,16 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 👷 Check out what I'm currently working on
 
-- [norberttech/nix-phpunit-es](https://github.com/norberttech/nix-phpunit-es) -  (2 days ago)
+- [norberttech/symfony-process-executor](https://github.com/norberttech/symfony-process-executor) - 💻 Symfony Process Component on steroids, async/sync execution chain. (today)
+- [norberttech/nix-phpunit-es](https://github.com/norberttech/nix-phpunit-es) -  (today)
 - [flow-php/etl](https://github.com/flow-php/etl) - PHP - ETL (Extract Transform Load) data processing library  (4 days ago)
 - [flow-php/.github](https://github.com/flow-php/.github) -  (1 week ago)
 - [flow-php/doctrine-dbal-bulk](https://github.com/flow-php/doctrine-dbal-bulk) - Doctrine DBAL Bulk Operations for selected database engines  (2 weeks ago)
 - [aeon-php/calendar-doctrine](https://github.com/aeon-php/calendar-doctrine) - 📅Aeaon PHP Framework integration with Doctrine (2 weeks ago)
 - [flow-php/etl-adapter-doctrine](https://github.com/flow-php/etl-adapter-doctrine) - ETL Adapter: Doctrine (3 weeks ago)
-- [flow-php/etl-adapter-memory](https://github.com/flow-php/etl-adapter-memory) - ETL Adapter: Memory (3 weeks ago)
+- [flow-php/etl-adapter-elasticsearch](https://github.com/flow-php/etl-adapter-elasticsearch) - ETL Adapter: Elasticsearch (3 weeks ago)
 - [flow-php/etl-adapter-json](https://github.com/flow-php/etl-adapter-json) - ETL Adapter: JSON (3 weeks ago)
 - [flow-php/etl-adapter-csv](https://github.com/flow-php/etl-adapter-csv) - ETL Adapter: CSV (3 weeks ago)
-- [flow-php/etl-adapter-xml](https://github.com/flow-php/etl-adapter-xml) - ETL Adapter: XML (3 weeks ago)
 
 ---
 
