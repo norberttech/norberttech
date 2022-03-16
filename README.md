@@ -20,7 +20,7 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 🔭 Latest releases I've contributed to
 
-- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) ([3.0.8](https://github.com/amazon-php/sp-api-sdk/releases/tag/3.0.8), 1 day ago) - Amazon Selling Partner SPI - PHP SDKs
+- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) ([3.0.9](https://github.com/amazon-php/sp-api-sdk/releases/tag/3.0.9), today) - Amazon Selling Partner SPI - PHP SDKs
 - [aeon-php/calendar](https://github.com/aeon-php/calendar) ([1.0.4](https://github.com/aeon-php/calendar/releases/tag/1.0.4), 1 month ago) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way. 
 - [aeon-php/sleep](https://github.com/aeon-php/sleep) ([1.0.3](https://github.com/aeon-php/sleep/releases/tag/1.0.3), 2 months ago) - 😴 Improved sleep function that uses simple TimeUnit and decides between \sleep and \usleep
 - [aeon-php/calendar-twig](https://github.com/aeon-php/calendar-twig) ([0.11.0](https://github.com/aeon-php/calendar-twig/releases/tag/0.11.0), 2 months ago) - 🌱 Twig extension for Aeon Calendar library 
