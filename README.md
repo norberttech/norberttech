@@ -5,15 +5,15 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 👷 Check out what I'm currently working on
 
-- [flow-php/etl](https://github.com/flow-php/etl) - PHP - ETL (Extract Transform Load) data processing library  (2 days ago)
+- [flow-php/etl-adapter-csv](https://github.com/flow-php/etl-adapter-csv) - ETL Adapter: CSV (today)
+- [flow-php/etl](https://github.com/flow-php/etl) - PHP - ETL (Extract Transform Load) data processing library  (today)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (5 days ago)
-- [norberttech/nix-phpunit-es](https://github.com/norberttech/nix-phpunit-es) -  (1 week ago)
 - [norberttech/symfony-process-executor](https://github.com/norberttech/symfony-process-executor) - 💻 Symfony Process Component on steroids, async/sync execution chain. (1 week ago)
+- [norberttech/nix-phpunit-es](https://github.com/norberttech/nix-phpunit-es) -  (1 week ago)
 - [flow-php/.github](https://github.com/flow-php/.github) -  (2 weeks ago)
 - [aeon-php/calendar-doctrine](https://github.com/aeon-php/calendar-doctrine) - 📅Aeaon PHP Framework integration with Doctrine (3 weeks ago)
 - [flow-php/doctrine-dbal-bulk](https://github.com/flow-php/doctrine-dbal-bulk) - Doctrine DBAL Bulk Operations for selected database engines  (3 weeks ago)
 - [flow-php/etl-adapter-xml](https://github.com/flow-php/etl-adapter-xml) - ETL Adapter: XML (4 weeks ago)
-- [flow-php/etl-adapter-csv](https://github.com/flow-php/etl-adapter-csv) - ETL Adapter: CSV (4 weeks ago)
 - [flow-php/etl-adapter-memory](https://github.com/flow-php/etl-adapter-memory) - ETL Adapter: Memory (4 weeks ago)
 
 ---
