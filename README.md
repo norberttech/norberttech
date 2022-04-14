@@ -5,12 +5,12 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 👷 Check out what I'm currently working on
 
-- [flow-php/etl](https://github.com/flow-php/etl) - PHP - ETL (Extract Transform Load) data processing library  (1 day ago)
+- [flow-php/etl](https://github.com/flow-php/etl) - PHP - ETL (Extract Transform Load) data processing library  (today)
 - [flow-php/etl-adapter-elasticsearch](https://github.com/flow-php/etl-adapter-elasticsearch) - ETL Adapter: Elasticsearch (4 days ago)
-- [flow-php/etl-adapter-json](https://github.com/flow-php/etl-adapter-json) - ETL Adapter: JSON (4 days ago)
 - [flow-php/etl-adapter-csv](https://github.com/flow-php/etl-adapter-csv) - ETL Adapter: CSV (4 days ago)
 - [flow-php/etl-adapter-xml](https://github.com/flow-php/etl-adapter-xml) - ETL Adapter: XML (4 days ago)
 - [flow-php/actions](https://github.com/flow-php/actions) - Reusable GitHub actions workflows  (4 days ago)
+- [flow-php/etl-adapter-json](https://github.com/flow-php/etl-adapter-json) - ETL Adapter: JSON (4 days ago)
 - [flow-php/etl-adapter-logger](https://github.com/flow-php/etl-adapter-logger) - PHP ETL - Adapter - Logger (4 days ago)
 - [flow-php/.github](https://github.com/flow-php/.github) -  (4 days ago)
 - [flow-php/array-dot](https://github.com/flow-php/array-dot) - Helper functions to access arrays in custom array dot notation  (4 days ago)
