@@ -20,7 +20,7 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 🔭 Latest releases I've contributed to
 
-- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) ([3.0.11](https://github.com/amazon-php/sp-api-sdk/releases/tag/3.0.11), today) - Amazon Selling Partner SPI - PHP SDKs
+- [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) ([4.0.0](https://github.com/amazon-php/sp-api-sdk/releases/tag/4.0.0), today) - Amazon Selling Partner SPI - PHP SDKs
 - [coduo/php-matcher](https://github.com/coduo/php-matcher) ([6.0.8](https://github.com/coduo/php-matcher/releases/tag/6.0.8), 2 weeks ago) - The easiest way to match data structures like JSON/PlainText/XML against readable patterns. Sandbox:
 - [aeon-php/calendar](https://github.com/aeon-php/calendar) ([1.0.4](https://github.com/aeon-php/calendar/releases/tag/1.0.4), 2 months ago) - 📅 PHP Date &amp; Time library that solves common problems in object oriented, immutable way. 
 - [aeon-php/sleep](https://github.com/aeon-php/sleep) ([1.0.3](https://github.com/aeon-php/sleep/releases/tag/1.0.3), 3 months ago) - 😴 Improved sleep function that uses simple TimeUnit and decides between \sleep and \usleep
