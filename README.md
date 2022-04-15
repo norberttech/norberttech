@@ -5,8 +5,8 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 👷 Check out what I'm currently working on
 
+- [flow-php/etl](https://github.com/flow-php/etl) - PHP - ETL (Extract Transform Load) data processing library  (today)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (1 day ago)
-- [flow-php/etl](https://github.com/flow-php/etl) - PHP - ETL (Extract Transform Load) data processing library  (1 day ago)
 - [flow-php/etl-adapter-elasticsearch](https://github.com/flow-php/etl-adapter-elasticsearch) - ETL Adapter: Elasticsearch (5 days ago)
 - [flow-php/etl-adapter-json](https://github.com/flow-php/etl-adapter-json) - ETL Adapter: JSON (5 days ago)
 - [flow-php/actions](https://github.com/flow-php/actions) - Reusable GitHub actions workflows  (5 days ago)
