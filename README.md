@@ -6,15 +6,15 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 #### 👷 Check out what I'm currently working on
 
 - [flow-php/etl](https://github.com/flow-php/etl) - PHP - ETL (Extract Transform Load) data processing library  (today)
+- [flow-php/etl-async](https://github.com/flow-php/etl-async) - Flow ETL asynchronous processing abstraction  (today)
+- [app-insights-php/app-insights-php-bundle](https://github.com/app-insights-php/app-insights-php-bundle) - Microsoft App Insights Symfony bundle  (1 day ago)
 - [app-insights-php/client](https://github.com/app-insights-php/client) - Microsoft App Insights telemetry client wrapper (1 day ago)
 - [app-insights-php/monolog-handler](https://github.com/app-insights-php/monolog-handler) - Microsoft App Insights monolog handler for trace tracking (1 day ago)
-- [app-insights-php/app-insights-php-bundle](https://github.com/app-insights-php/app-insights-php-bundle) - Microsoft App Insights Symfony bundle  (1 day ago)
 - [amazon-php/sp-api-sdk](https://github.com/amazon-php/sp-api-sdk) - Amazon Selling Partner SPI - PHP SDKs (2 days ago)
-- [flow-php/doctrine-dbal-bulk](https://github.com/flow-php/doctrine-dbal-bulk) - Doctrine DBAL Bulk Operations for selected database engines  (6 days ago)
-- [flow-php/etl-adapter-elasticsearch](https://github.com/flow-php/etl-adapter-elasticsearch) - ETL Adapter: Elasticsearch (6 days ago)
+- [flow-php/etl-adapter-logger](https://github.com/flow-php/etl-adapter-logger) - PHP ETL - Adapter - Logger (6 days ago)
 - [flow-php/.github](https://github.com/flow-php/.github) -  (6 days ago)
-- [flow-php/actions](https://github.com/flow-php/actions) - Reusable GitHub actions workflows  (6 days ago)
 - [flow-php/etl-adapter-csv](https://github.com/flow-php/etl-adapter-csv) - ETL Adapter: CSV (6 days ago)
+- [flow-php/actions](https://github.com/flow-php/actions) - Reusable GitHub actions workflows  (6 days ago)
 
 ---
 
