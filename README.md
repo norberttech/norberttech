@@ -5,7 +5,7 @@ I am [Norbert Orzechowicz](https://norbert.tech/).
 
 #### 👷 Check out what I'm currently working on
 
-- [flow-php/etl](https://github.com/flow-php/etl) - PHP - ETL (Extract Transform Load) data processing library  (1 day ago)
+- [flow-php/etl](https://github.com/flow-php/etl) - PHP - ETL (Extract Transform Load) data processing library  (today)
 - [app-insights-php/client](https://github.com/app-insights-php/client) - Microsoft App Insights telemetry client wrapper (1 day ago)
 - [app-insights-php/monolog-handler](https://github.com/app-insights-php/monolog-handler) - Microsoft App Insights monolog handler for trace tracking (1 day ago)
 - [app-insights-php/app-insights-php-bundle](https://github.com/app-insights-php/app-insights-php-bundle) - Microsoft App Insights Symfony bundle  (1 day ago)
