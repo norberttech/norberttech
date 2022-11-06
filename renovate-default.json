@@ -1,0 +1,51 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "description": "Default configuration for repositories under `norberttech/`.",
+  "extends": [
+    ":dependencyDashboard",
+    ":ignoreModulesAndTests",
+    ":automergeMinor",
+    ":automergeBranch",
+    ":rebaseStalePrs",
+    ":semanticCommitsDisabled",
+    ":separateMajorReleases",
+    ":combinePatchMinorReleases",
+    ":enableVulnerabilityAlerts",
+    ":timezone(UTC)",
+    ":label(renovate)",
+    "group:allNonMajor"
+  ],
+  "commitBodyTable": true,
+  "lockFileMaintenance": {
+    "enabled": true,
+    "automerge": true,
+    "automergeType": "pr",
+    "platformAutomerge": true
+  },
+  "rangeStrategy": "replace",
+  "rollbackPrs": true,
+  "packageRules": [
+    {
+      "rangeStrategy": "bump"
+    },
+    {
+      "matchPackageNames": [
+        "php"
+      ],
+      "extends": [
+        ":automergeDisabled",
+        ":automergePr"
+      ],
+      "ignoreUnstable": false,
+      "groupName": "PHP"
+    }
+  ],
+  "vulnerabilityAlerts": {
+    "extends": [
+      ":automergeDisabled",
+      ":automergePr",
+      ":labels(security)"
+    ],
+    "rangeStrategy": "bump"
+  }
+}
