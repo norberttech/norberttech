@@ -19,6 +19,10 @@ My name is [Norbert](https://norbert.tech/), and I am a software developer/desig
   </tbody>
 </table>
 
+> On Feb. 24, 2022, Russia declared an unprovoked war on Ukraine and launched a full-scale invasion. Russia is currently bombing peaceful Ukrainian cities, including schools and hospitals and attacking civilians who are fleeing conflict zones.
+
+> On Oct. 7, 2023, the national holiday of Shemini Atzeret, Hamas terrorists initiated an attack on Israel in the early hours, targeting civilians. They unleashed violence that resulted in at least 1,400 casualties and abducted at least 200 individuals, not limited to Israelis.
+
 
 ## My Work
 
