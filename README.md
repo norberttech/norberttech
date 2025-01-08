@@ -1,6 +1,6 @@
 # Hello World
 
-![img](https://norbert.tech/assets/images/hero-consulting-5cfbcbcc3dfc26d5633ab3ee53fb35ac.jpeg)
+![img](/assets/hero-consulting.jpeg)
 
 I'm a software engineer and architect with extensive experience in building high-scalability web applications and data processing systems.
 
@@ -22,3 +22,16 @@ My consulting services include:
 - Bootstrapping a Data Processing Framework
 
 Learn more and book **a free 30-minute consulting session** at [norbert.tech](https://norbert.tech/consulting/)
+
+### Blogs and Articles
+
+- [Personal Blog](https://norbert.tech/blog) 🇺🇸
+- [Flow PHP Blog](https://flow-php.com/blog) 🇺🇸
+- [Za Warstwa Abstrakcji](https://zawarstwaabstrakcji.pl) 🇵🇱
+
+### Open Source Projects
+
+I'm a maintainer of several open-source projects but currently I'm focused mostly on [https://flow-php/com](https://flow-php.com)
+
+[![flow](/assets/flow_php_banner.png)](https://flow-php.com)
+
