@@ -31,7 +31,7 @@ Learn more and book **a free 30-minute consulting session** at [norbert.tech](ht
 
 ### Open Source Projects
 
-I'm a maintainer of several open-source projects but currently, I'm focused mostly on [https://flow-php/com](https://flow-php.com)
+I'm a maintainer of several open-source projects but currently, I'm focused mostly on [https://flow-php.com](https://flow-php.com)
 
 [![flow](/assets/flow_php_banner.png)](https://flow-php.com)
 
